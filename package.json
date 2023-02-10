@@ -1,0 +1,17 @@
+{
+    "name": "music-bot",
+    "main": "main.js",
+    "author": "F0R3X",
+    "version": "6.0.0",
+    "description": " To ALL OUR SOLITARY WOLFS YOU ARE NOT ALONE ",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "discord-player": "^5.3.1",
+        "discord.js": "^14.7.1",
+        "ffmpeg-static": "^5.0.2",
+        "ms": "^3.0.0-canary.1",
+        "opusscript": "^0.0.8"
+    }
+}
